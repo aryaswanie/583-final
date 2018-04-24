@@ -1,0 +1,14 @@
+#mysite-map{
+  background: lightblue;
+}
+
+#mysite-map path {
+    stroke: gray;
+    stroke-width: 1px;
+    fill: white;
+
+}
+
+#mysite-map circle {
+    fill: red;
+}
